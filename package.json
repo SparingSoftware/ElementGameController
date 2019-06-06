@@ -1,0 +1,33 @@
+{
+  "author": "PanowiePro",
+  "name": "Test",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "babel-polyfill": "latest",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.14.0",
+    "httpdispatcher": "^2.1.2",
+    "log-timestamp": "latest",
+    "moment": "^2.22.2",
+    "node-cache": "^4.2.0",
+    "request": "^2.74.0",
+    "robotjs": "^0.5.1",
+    "socket.io": "^2.2.0",
+    "vhost": "^3.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "node-key-sender": "^1.0.11"
+  },
+  "optionalDependencies": {}
+}
